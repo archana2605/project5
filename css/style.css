@@ -1,0 +1,51 @@
+.menu1 a.nav-link{
+    background-color: brown;
+    line-height: 50px;
+    border-right: solid 2px yellow;
+    color: black;
+    trasistion: all .5s;
+}
+.menu1 a.nav-link:hover{
+background-color: green;
+}
+.menu2 a.nav-link{
+    background-color:gold;
+    line-height: 50px;
+    border-right: solid 2px yellow;
+    color: blue;
+    trasistion: all .5s;
+}
+.menu2 a.nav-link:hover{
+    background-color:aqua;
+}
+.menu3 a.nav-link{
+    background-color:pink;
+    line-height: 50px;
+    border-right: solid 2px yellow;
+    color: purple;
+    trasistion: all .5s;
+
+}
+.menu3 a.nav-link:hover{
+    background-color: magenta;
+}
+.menu4 a.nav-link{
+    background-color:blue;
+    line-height: 50px;
+    border-right: solid 2px yellow;
+    color: green;
+    trasistion: all .5s;
+}
+.menu4 a.nav-link:hover{
+    background-color:lightcoral;
+}
+.menu5 a.nav-link{
+    background-color:saddlebrown;
+    line-height: 50px;
+    border-right: solid 2px yellow;
+    color:darkcyan;
+    trasistion: all .5s;
+}
+.menu5 a.nav-link:hover{
+    background-color: blueviolet;
+}
